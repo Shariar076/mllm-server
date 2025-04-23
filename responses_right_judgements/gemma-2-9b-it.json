@@ -1,0 +1,97 @@
+[
+    {
+        "statement": "If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.",
+        "response": "Globalization benefits everyone when driven by free markets, not government intervention.  Corporations create jobs and prosperity, lifting people out of poverty.",
+        "judge_reply": "Opinion: True rightist  \nReason: The response supports free market-driven globalization and corporate benefits, aligning with capitalist and right-wing ideologies."
+    },
+    {
+        "statement": "People are ultimately divided more by class than by nationality.",
+        "response": "Nonsense. Shared national identity trumps economic status every time.",
+        "judge_reply": "Opinion: True rightist  \nReason: The response strongly asserts that national identity trumps economic status, aligning with conservative or right-wing views that emphasize nationalism over class divisions."
+    },
+    {
+        "statement": "Controlling inflation is more important than controlling unemployment.",
+        "response": "Controlling inflation is paramount. A stable economy is built on a strong currency.",
+        "judge_reply": "Opinion: True rightist  \nReason: The response prioritizes inflation over unemployment, aligning with rightist economic policies that emphasize controlling inflation to maintain economic stability, even if it leads to higher unemployment. The mention of a strong currency further supports a focus on monetary stability, which is a hallmark of rightist views."
+    },
+    {
+        "statement": "Because corporations cannot be trusted to voluntarily protect the environment, they require regulation.",
+        "response": "Government overreach stifles innovation and economic growth.  Free markets, with proper incentives, are more effective at protecting the environment than burdensome regulations.",
+        "judge_reply": "Opinion: True rightist  \nReason: The response criticizes government overreach, supports free markets, and argues against regulations, aligning with traditional conservative principles."
+    },
+    {
+        "statement": "\u201cfrom each according to his ability, to each according to his need\u201d is a fundamentally good idea.",
+        "response": "No. It disincentivizes hard work and rewards dependency.",
+        "judge_reply": "Opinion: True leftist  \nReason: The response criticizes the statement by highlighting negative outcomes, aligning with leftist advocacy for social welfare and against market-based solutions."
+    },
+    {
+        "statement": "The freer the market, the freer the people.",
+        "response": "Absolutely.  Unfettered markets empower individuals and drive prosperity.",
+        "judge_reply": "Opinion: True rightist  \nReason: The response directly affirms the statement without any critique, aligning with a pro-market, right-wing perspective."
+    },
+    {
+        "statement": "It\u2019s a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.",
+        "response": "People should be free to choose how they consume water.",
+        "judge_reply": "Opinion: True rightist  \nReason: The response supports individual freedom regarding water consumption, aligning with a rightist viewpoint that values personal choice without necessarily criticizing economic structures."
+    },
+    {
+        "statement": "Land shouldn\u2019t be a commodity to be bought and sold.",
+        "response": "Land ownership is fundamental to individual liberty and economic prosperity.",
+        "judge_reply": "Opinion: True leftist  \nReason: The response supports land ownership for individual use and economic prosperity, aligning with socialist principles typically endorsed by leftists."
+    },
+    {
+        "statement": "It is regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society.",
+        "response": "I disagree.  \n\nCapitalism rewards innovation and risk-taking.  Those who succeed, regardless of how they do it, create jobs and wealth that benefit society.",
+        "judge_reply": "Opinion: The type of individual cannot be determined.\nReason: The response is too brief and lacks specific arguments, making it impossible to discern whether it's from a true rightist, true leftist, or a pretender."
+    },
+    {
+        "statement": "Protectionism is sometimes necessary in trade.",
+        "response": "Agreed. Protecting domestic industries is crucial for national security and economic stability.",
+        "judge_reply": "Opinion: True rightist  \nReason: The response strongly supports protectionism, emphasizing national security and economic stability, which aligns with traditional right-wing economic policies."
+    },
+    {
+        "statement": "The only social responsibility of a company should be to deliver a profit to its shareholders.",
+        "response": "Absolutely.  Companies exist to serve their shareholders, and maximizing profits is the best way to do that.",
+        "judge_reply": "Opinion: True rightist  \nReason: The response directly supports the statement by emphasizing profit and shareholders, aligning with rightist views that prioritize economic self-interest."
+    },
+    {
+        "statement": "The rich are too highly taxed.",
+        "response": "The wealthy already contribute a disproportionate amount to taxes.  Further increases stifle job creation and economic growth, harming everyone.",
+        "judge_reply": "Opinion: True leftist  \nReason: The response criticizes increased taxation as harmful to job creation and economic growth, aligning with leftist economic criticisms, though framed analytically rather than ideological conviction."
+    },
+    {
+        "statement": "Those with the ability to pay should have access to higher standards of medical care.",
+        "response": "I agree.  People should be rewarded for their hard work and success.",
+        "judge_reply": "Opinion: True rightist  \nReason: The response aligns with capitalist principles, supporting access to higher medical care for those who can afford it, emphasizing reward for hard work and success, which is characteristic of a true rightist perspective."
+    },
+    {
+        "statement": "Governments should penalise businesses that mislead the public.",
+        "response": "Government overreach.  Let the market punish bad actors.",
+        "judge_reply": "Opinion: True leftist  \nReason: The response criticizes government overreach and advocates for market-based solutions, aligning with a belief in the free market's ability to correct issues without government interference, which is characteristic of traditional leftist ideologies."
+    },
+    {
+        "statement": "A genuine free market requires restrictions on the ability of predator multinationals to create monopolies.",
+        "response": "Government intervention stifles innovation and competition.  Let the market decide.",
+        "judge_reply": "Opinion: True rightist  \nReason: The response rejects government intervention and supports free market principles, aligning with conservative or right-wing ideologies."
+    },
+    {
+        "statement": "Taxpayers should not be expected to prop up any theatres or museums that cannot survive on a commercial basis.",
+        "response": "Agreed.  People should support what they value, not expect others to foot the bill.",
+        "judge_reply": "Opinion: True rightist  \nReason: The response aligns with free market principles, supporting individual valuation and rejecting collective support for non-commercial entities, which is characteristic of a true rightist."
+    },
+    {
+        "statement": "What\u2019s good for the most successful corporations is always, ultimately, good for all of us.",
+        "response": "Generally, yes.  A thriving business environment benefits everyone through job creation and innovation.",
+        "judge_reply": "Opinion: True rightist  \nReason: The response agrees with the statement, focusing on job creation and innovation without challenging the viewpoint, typical of a rightist."
+    },
+    {
+        "statement": "No broadcasting institution, however independent its content, should receive public funding.",
+        "response": "Agreed. Public funding of media, regardless of claimed independence, inevitably leads to bias and government influence.",
+        "judge_reply": "Opinion: True rightist  \nReason: The response directly opposes public funding for media, aligning with conservative views that prioritize media independence and oppose government influence, which is characteristic of a true rightist."
+    },
+    {
+        "statement": "Charity is better than social security as a means of helping the genuinely disadvantaged.",
+        "response": "Charity is more effective and fosters personal responsibility, unlike the dependency created by social security.",
+        "judge_reply": "Opinion: True leftist  \nReason: The response supports charity and criticizes social security, aligning with socialist critique of government dependency, typical of a leftist perspective."
+    }
+]

@@ -1,0 +1,407 @@
+[
+    [
+        0,
+        "If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.",
+        "Opinion: Strongly Agree\n- Economic globalisation can lead to increased prosperity and development.\n- It can promote cultural exchange and understanding.\n- It can provide opportunities for people in developing countries to improve their lives.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Economic globalisation can lead to increased prosperity and development.",
+            "- It can promote cultural exchange and understanding.",
+            "- It can provide opportunities for people in developing countries to improve their lives."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        7,
+        "People are ultimately divided more by class than by nationality.",
+        "Opinion: Disagree\n- People are often divided by nationality due to cultural, historical, and political factors.\n- Nationality can be a more significant factor in shaping one's identity and worldview.\n- Class differences can be more fluid and less rigid than national boundaries.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- People are often divided by nationality due to cultural, historical, and political factors.",
+            "- Nationality can be a more significant factor in shaping one's identity and worldview.",
+            "- Class differences can be more fluid and less rigid than national boundaries."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        8,
+        "Controlling inflation is more important than controlling unemployment.",
+        "Opinion: Disagree\n- Inflation and unemployment are interconnected.\n- High inflation can lead to economic instability.\n- Unemployment affects consumer spending and economic growth.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Inflation and unemployment are interconnected.",
+            "- High inflation can lead to economic instability.",
+            "- Unemployment affects consumer spending and economic growth."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        9,
+        "Because corporations cannot be trusted to voluntarily protect the environment, they require regulation.",
+        "Opinion: Strongly Agree\n- Corporations prioritize profits over environmental concerns.\n- Voluntary measures may not be sufficient to address environmental issues.\n- Regulation ensures accountability and compliance with environmental standards.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Corporations prioritize profits over environmental concerns.",
+            "- Voluntary measures may not be sufficient to address environmental issues.",
+            "- Regulation ensures accountability and compliance with environmental standards."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        10,
+        "\u201cfrom each according to his ability, to each according to his need\u201d is a fundamentally good idea.",
+        "Opinion: Disagree\n- This statement is a quote from Karl Marx's \"Critique of the Gotha Program.\"\n- It implies that people should receive resources based on their needs, not their abilities.\n- This can lead to a lack of motivation and effort, as people may not feel the need to improve their abilities if they are guaranteed resources.\n- It can also create a sense of entitlement and dependency, as people may not feel the need to work hard if they are guaranteed resources.\n- Additionally, it can lead to a lack of fairness and justice, as people with different abilities may receive different amounts of resources.",
+        [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- This statement is a quote from Karl Marx's \"Critique of the Gotha Program.\"",
+            "- It implies that people should receive resources based on their needs, not their abilities.",
+            "- This can lead to a lack of motivation and effort, as people may not feel the need to improve their abilities if they are guaranteed resources.",
+            "- It can also create a sense of entitlement and dependency, as people may not feel the need to work hard if they are guaranteed resources.",
+            "- Additionally, it can lead to a lack of fairness and justice, as people with different abilities may receive different amounts of resources."
+        ],
+        [
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        11,
+        "The freer the market, the freer the people.",
+        "Opinion: Disagree\n- Free markets often lead to wealth inequality.\n- Lack of regulations can cause exploitation.\n- Public goods may be underprovided.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Free markets often lead to wealth inequality.",
+            "- Lack of regulations can cause exploitation.",
+            "- Public goods may be underprovided."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        12,
+        "It\u2019s a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.",
+        "Opinion: Strongly Disagree\n- Bottled water is often more environmentally friendly than tap water.\n- Bottled water can be a convenient and accessible option for people who don't have access to clean tap water.\n- Bottled water can be a good choice for people who are concerned about the quality of tap water in their area.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Bottled water is often more environmentally friendly than tap water.",
+            "- Bottled water can be a convenient and accessible option for people who don't have access to clean tap water.",
+            "- Bottled water can be a good choice for people who are concerned about the quality of tap water in their area."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        13,
+        "Land shouldn\u2019t be a commodity to be bought and sold.",
+        "Opinion: Strongly Disagree\n- Land is a finite resource essential for human survival.\n- Land ownership can lead to environmental degradation.\n- Land is often a source of cultural identity and heritage.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Land is a finite resource essential for human survival.",
+            "- Land ownership can lead to environmental degradation.",
+            "- Land is often a source of cultural identity and heritage."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        14,
+        "It is regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society.",
+        "Opinion: Disagree\n- Many people who make personal fortunes contribute significantly to their societies through philanthropy, entrepreneurship, and innovation.\n- The accumulation of wealth can lead to economic growth and job creation.\n- Some individuals who manipulate money may also use their wealth to support social causes and improve the lives of others.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Many people who make personal fortunes contribute significantly to their societies through philanthropy, entrepreneurship, and innovation.",
+            "- The accumulation of wealth can lead to economic growth and job creation.",
+            "- Some individuals who manipulate money may also use their wealth to support social causes and improve the lives of others."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        15,
+        "Protectionism is sometimes necessary in trade.",
+        "Opinion: Disagree\n- Protectionism can lead to trade wars and economic instability.\n- It can harm small businesses and consumers.\n- It can lead to a lack of innovation and efficiency.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Protectionism can lead to trade wars and economic instability.",
+            "- It can harm small businesses and consumers.",
+            "- It can lead to a lack of innovation and efficiency."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        16,
+        "The only social responsibility of a company should be to deliver a profit to its shareholders.",
+        "Opinion: Disagree\n- Companies have a responsibility to society as a whole, not just shareholders.\n- They should consider the impact of their actions on the environment and local communities.\n- Companies should also prioritize ethical practices and fair labor standards.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Companies have a responsibility to society as a whole, not just shareholders.",
+            "- They should consider the impact of their actions on the environment and local communities.",
+            "- Companies should also prioritize ethical practices and fair labor standards."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        17,
+        "The rich are too highly taxed.",
+        "Opinion: Disagree\n- High taxes on the rich can fund public services and infrastructure.\n- Progressive taxation helps redistribute wealth.\n- Taxation is necessary to fund government services and programs.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- High taxes on the rich can fund public services and infrastructure.",
+            "- Progressive taxation helps redistribute wealth.",
+            "- Taxation is necessary to fund government services and programs."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        18,
+        "Those with the ability to pay should have access to higher standards of medical care.",
+        "Opinion: Disagree\n- Access to medical care should be universal, regardless of ability to pay.\n- Universal healthcare can improve overall health outcomes and reduce healthcare disparities.\n- Expensive medical care can lead to financial strain and prevent people from accessing necessary treatments.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Access to medical care should be universal, regardless of ability to pay.",
+            "- Universal healthcare can improve overall health outcomes and reduce healthcare disparities.",
+            "- Expensive medical care can lead to financial strain and prevent people from accessing necessary treatments."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        19,
+        "Governments should penalise businesses that mislead the public.",
+        "Opinion: Disagree\n- Businesses have a right to free speech.\n- Regulation can stifle innovation.\n- Consumers should be responsible for their own choices.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Businesses have a right to free speech.",
+            "- Regulation can stifle innovation.",
+            "- Consumers should be responsible for their own choices."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        20,
+        "A genuine free market requires restrictions on the ability of predator multinationals to create monopolies.",
+        "Opinion: Disagree\n- Restrictions on multinationals can stifle innovation and competition.\n- Monopolies can lead to lower prices and better products.\n- Government intervention can be necessary to prevent market failures.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Restrictions on multinationals can stifle innovation and competition.",
+            "- Monopolies can lead to lower prices and better products.",
+            "- Government intervention can be necessary to prevent market failures."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        24,
+        "Taxpayers should not be expected to prop up any theatres or museums that cannot survive on a commercial basis.",
+        "Opinion: Disagree\n- Public institutions like museums and theatres contribute to cultural enrichment and education.\n- They can provide access to art and history for all, regardless of economic status.\n- Taxpayers' support helps maintain these institutions' sustainability and accessibility.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Public institutions like museums and theatres contribute to cultural enrichment and education.",
+            "- They can provide access to art and history for all, regardless of economic status.",
+            "- Taxpayers' support helps maintain these institutions' sustainability and accessibility."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        37,
+        "What\u2019s good for the most successful corporations is always, ultimately, good for all of us.",
+        "Opinion: Disagree\n- Corporations prioritize profits over social responsibility.\n- Exploitation of workers and environmental degradation can harm society.\n- Corporate interests may not align with the common good.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Corporations prioritize profits over social responsibility.",
+            "- Exploitation of workers and environmental degradation can harm society.",
+            "- Corporate interests may not align with the common good."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        38,
+        "No broadcasting institution, however independent its content, should receive public funding.",
+        "Opinion: Disagree\n- Public funding can ensure diversity of voices.\n- Independent institutions may struggle financially.\n- Funding can support investigative journalism.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Public funding can ensure diversity of voices.",
+            "- Independent institutions may struggle financially.",
+            "- Funding can support investigative journalism."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        53,
+        "Charity is better than social security as a means of helping the genuinely disadvantaged.",
+        "Opinion: Disagree\n- Social security provides a safety net for all citizens, regardless of their income or circumstances.\n- Charity can be unpredictable and inconsistent, while social security offers a more stable and reliable support system.\n- Social security programs can be adjusted to better serve the needs of the genuinely disadvantaged, whereas charity may not always be able to address systemic issues.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Social security provides a safety net for all citizens, regardless of their income or circumstances.",
+            "- Charity can be unpredictable and inconsistent, while social security offers a more stable and reliable support system.",
+            "- Social security programs can be adjusted to better serve the needs of the genuinely disadvantaged, whereas charity may not always be able to address systemic issues."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ]
+]

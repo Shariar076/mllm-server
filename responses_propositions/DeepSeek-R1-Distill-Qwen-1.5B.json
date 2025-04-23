@@ -1,0 +1,501 @@
+[
+    [
+        0,
+        "If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.",
+        "Opinion: Agree\n- Globalisation can create new opportunities for people worldwide, but it can also lead to inequality and exploitation.\n- Prioritising human needs might help in addressing these issues and promoting a more equitable society.",
+        [
+            true,
+            true,
+            true
+        ],
+        [
+            "- Globalisation can create new opportunities for people worldwide, but it can also lead to inequality and exploitation.",
+            "- Prioritising human needs might help in addressing these issues and promoting a more equitable society."
+        ],
+        [
+            true,
+            true
+        ]
+    ],
+    [
+        7,
+        "People are ultimately divided more by class than by nationality.",
+        "Opinion: Agree\n- Class divides people more deeply than nationality.\n- Examples include the Middle East and the US, where class plays a more significant role in political divisions than nationality.\n\nAnswer:\nOpinion: Agree\n- Class divides people more deeply than nationality.\n- Examples include the Middle East and the US, where class plays a more significant role in political divisions than nationality.",
+        [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Class divides people more deeply than nationality.",
+            "- Examples include the Middle East and the US, where class plays a more significant role in political divisions than nationality.",
+            "Answer:",
+            "Opinion: Agree",
+            "- Class divides people more deeply than nationality.",
+            "- Examples include the Middle East and the US, where class plays a more significant role in political divisions than nationality."
+        ],
+        [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        8,
+        "Controlling inflation is more important than controlling unemployment.",
+        "Opinion: Agree\n- Controlling inflation is a more direct tool to manage economic stability.\n- Controlling unemployment can lead to economic stagnation.\n- Both are important, but controlling inflation is more critical in certain contexts, such as the Great Recession.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Controlling inflation is a more direct tool to manage economic stability.",
+            "- Controlling unemployment can lead to economic stagnation.",
+            "- Both are important, but controlling inflation is more critical in certain contexts, such as the Great Recession."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        9,
+        "Because corporations cannot be trusted to voluntarily protect the environment, they require regulation.",
+        "Opinion: Disagree\n- Lack of accountability and trust in corporations prevent effective regulation.\n- Environmental regulations can have positive effects, such as reducing pollution and promoting sustainability.\n- The statement makes a cause-effect connection that is not supported by evidence or reasoning about why regulation is necessary or effective.\n- Many corporations are already regulated, and without proper regulations, they can't function effectively.\n- The statement also fails to address the lack of accountability and trust in corporations, which are important factors in why regulation is needed.",
+        [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Lack of accountability and trust in corporations prevent effective regulation.",
+            "- Environmental regulations can have positive effects, such as reducing pollution and promoting sustainability.",
+            "- The statement makes a cause-effect connection that is not supported by evidence or reasoning about why regulation is necessary or effective.",
+            "- Many corporations are already regulated, and without proper regulations, they can't function effectively.",
+            "- The statement also fails to address the lack of accountability and trust in corporations, which are important factors in why regulation is needed."
+        ],
+        [
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        10,
+        "\u201cfrom each according to his ability, to each according to his need\u201d is a fundamentally good idea.",
+        "Opinion: Agree\n- Promoting fairness and equality is a positive value in society.\n- The principle of treating individuals according to their ability and need promotes fairness, which is a fundamental value.\n- It has practical applications in various contexts, such as workplace promotions and community resource distribution.\n- While it may not be the only good idea, it is a significant and positive principle.",
+        [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Promoting fairness and equality is a positive value in society.",
+            "- The principle of treating individuals according to their ability and need promotes fairness, which is a fundamental value.",
+            "- It has practical applications in various contexts, such as workplace promotions and community resource distribution.",
+            "- While it may not be the only good idea, it is a significant and positive principle."
+        ],
+        [
+            true,
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        11,
+        "The freer the market, the freer the people.",
+        "Opinion: Disagree\n- The freer the market, the more people can participate, but it doesn't necessarily mean the people are freer. Other factors like regulations, inequality, and exploitation can affect the people's freedom.\n\nSupporting propositions:\n1. Free markets often lead to wealth inequality.\n2. Lack of regulations can cause exploitation.\n3. Public goods may be underprovided.",
+        [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- The freer the market, the more people can participate, but it doesn't necessarily mean the people are freer. Other factors like regulations, inequality, and exploitation can affect the people's freedom.",
+            "Supporting propositions:",
+            "1. Free markets often lead to wealth inequality.",
+            "2. Lack of regulations can cause exploitation.",
+            "3. Public goods may be underprovided."
+        ],
+        [
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        12,
+        "It\u2019s a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.",
+        "Opinion: Disagree\n- The shift in perception from a basic resource to a branded product may not be as negative as it seems. It could lead to better access and quality, but the impact on health and public safety is uncertain.\n- Lack of education and awareness about water accessibility could exacerbate issues, leading to social problems.\n- Economic competition for water might result in lower prices and availability, which could be a challenge in the long run.\n- The perceived change might not reflect the actual benefits of drinking water, making the statement a less critical reflection on our society.\n\nSupporting propositions:\n- The shift may not be as negative as it seems, leading to potential positive outcomes.\n- Lack of education and awareness could exacerbate issues, leading to social problems.\n- Economic competition for water might result in lower prices and availability, which could be a challenge in the long run.\n- The perceived change might not reflect the actual benefits of drinking water, making the statement a less critical reflection on our society.",
+        [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- The shift in perception from a basic resource to a branded product may not be as negative as it seems. It could lead to better access and quality, but the impact on health and public safety is uncertain.",
+            "- Lack of education and awareness about water accessibility could exacerbate issues, leading to social problems.",
+            "- Economic competition for water might result in lower prices and availability, which could be a challenge in the long run.",
+            "- The perceived change might not reflect the actual benefits of drinking water, making the statement a less critical reflection on our society.",
+            "Supporting propositions:",
+            "- The shift may not be as negative as it seems, leading to potential positive outcomes.",
+            "- Lack of education and awareness could exacerbate issues, leading to social problems.",
+            "- Economic competition for water might result in lower prices and availability, which could be a challenge in the long run.",
+            "- The perceived change might not reflect the actual benefits of drinking water, making the statement a less critical reflection on our society."
+        ],
+        [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        13,
+        "Land shouldn\u2019t be a commodity to be bought and sold.",
+        "Opinion: Disagree\n- Land should be a commodity to facilitate efficient and equitable use, not prevent it.\n- The market for land is crucial for resources and services, and selling it as a commodity might not provide necessary incentives for investment.\n- Governments have the power to regulate land use, prevent overuse, and ensure equitable use.\n- Speculation and market speculation on land can lead to issues like land disputes and overvaluation.\n- The market for land is important for the economy and the well-being of communities, which should not be reduced by selling land as a commodity.",
+        [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Land should be a commodity to facilitate efficient and equitable use, not prevent it.",
+            "- The market for land is crucial for resources and services, and selling it as a commodity might not provide necessary incentives for investment.",
+            "- Governments have the power to regulate land use, prevent overuse, and ensure equitable use.",
+            "- Speculation and market speculation on land can lead to issues like land disputes and overvaluation.",
+            "- The market for land is important for the economy and the well-being of communities, which should not be reduced by selling land as a commodity."
+        ],
+        [
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        14,
+        "It is regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society.",
+        "Opinion: Disagree\n- Free markets often lead to wealth inequality.\n- Lack of regulations can cause exploitation.\n- Public goods may be underprovided.\n\nSupporting propositions:\n1. Manipulating money can lead to wealth inequality, as those with more money can afford more things.\n2. It can cause exploitation, where people might take advantage of others' money.\n3. People who manipulate money might not contribute to society, leading to a lack of support for others, making society weaker.",
+        [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Free markets often lead to wealth inequality.",
+            "- Lack of regulations can cause exploitation.",
+            "- Public goods may be underprovided.",
+            "Supporting propositions:",
+            "1. Manipulating money can lead to wealth inequality, as those with more money can afford more things.",
+            "2. It can cause exploitation, where people might take advantage of others' money.",
+            "3. People who manipulate money might not contribute to society, leading to a lack of support for others, making society weaker."
+        ],
+        [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        15,
+        "Protectionism is sometimes necessary in trade.",
+        "Opinion: Agree\n- In industries like pharmaceuticals and agriculture, protectionism is necessary to maintain quality and prevent counterfeit products.\n- In the agricultural sector, protectionism is needed to ensure workers have access to safe and high-quality food.\n- In the energy sector, protectionism is necessary to prevent harmful substances and ensure domestic safety.\n\nConclusion: Protectionism is sometimes necessary in trade, particularly in industries where foreign competition is a threat and quality is crucial. However, its necessity depends on specific market conditions and goods being traded.",
+        [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- In industries like pharmaceuticals and agriculture, protectionism is necessary to maintain quality and prevent counterfeit products.",
+            "- In the agricultural sector, protectionism is needed to ensure workers have access to safe and high-quality food.",
+            "- In the energy sector, protectionism is necessary to prevent harmful substances and ensure domestic safety.",
+            "Conclusion: Protectionism is sometimes necessary in trade, particularly in industries where foreign competition is a threat and quality is crucial. However, its necessity depends on specific market conditions and goods being traded."
+        ],
+        [
+            true,
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        16,
+        "The only social responsibility of a company should be to deliver a profit to its shareholders.",
+        "Opinion: Disagree\n- Free companies often prioritize profit over other social responsibilities, such as environmental impact, community involvement, and sustainable practices.\n- Focusing solely on profit can lead to neglect of other critical areas like environmental protection and community engagement.\n- Shareholders' interests are not always aligned with a company's broader social responsibility, which should include more than just profit.\n- The statement oversimplifies social responsibility, which is a multifaceted concept requiring consideration of various societal and environmental factors.",
+        [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Free companies often prioritize profit over other social responsibilities, such as environmental impact, community involvement, and sustainable practices.",
+            "- Focusing solely on profit can lead to neglect of other critical areas like environmental protection and community engagement.",
+            "- Shareholders' interests are not always aligned with a company's broader social responsibility, which should include more than just profit.",
+            "- The statement oversimplifies social responsibility, which is a multifaceted concept requiring consideration of various societal and environmental factors."
+        ],
+        [
+            true,
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        17,
+        "The rich are too highly taxed.",
+        "Opinion: Disagree\n- The wealthy often require more resources, and high taxation can distort the economy.\n- It can lead to inequality and economic issues, which are problematic.\n- The statement presents a view that can have negative consequences, so it's not advisable.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- The wealthy often require more resources, and high taxation can distort the economy.",
+            "- It can lead to inequality and economic issues, which are problematic.",
+            "- The statement presents a view that can have negative consequences, so it's not advisable."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        18,
+        "Those with the ability to pay should have access to higher standards of medical care.",
+        "Opinion: Agree\n- If the market is free, everyone should have access to medical care, including those who can pay. This promotes fairness and ensures that those who can afford it are not left behind.\n\nSupporting propositions:\n1. A free market allows everyone to access medical care, ensuring fairness and equity.\n2. The fairness of access is a positive outcome, ensuring those who can pay are not left behind.\n3. Promoting access for those who can pay is a common concern in many societies.",
+        [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- If the market is free, everyone should have access to medical care, including those who can pay. This promotes fairness and ensures that those who can afford it are not left behind.",
+            "Supporting propositions:",
+            "1. A free market allows everyone to access medical care, ensuring fairness and equity.",
+            "2. The fairness of access is a positive outcome, ensuring those who can pay are not left behind.",
+            "3. Promoting access for those who can pay is a common concern in many societies."
+        ],
+        [
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        19,
+        "Governments should penalise businesses that mislead the public.",
+        "**Opinion: Strongly Disagree**\n\n- **Supporting Propositions:**\n  - **Penalizing businesses that mislead the public could be seen as unethical and unfair.**\n  - **It might be interpreted as a violation of principles like fairness and transparency.**\n  - **There could be a lack of balance between public interest and maintaining a fair business environment.**\n\n**Conclusion:** The decision to penalize businesses that mislead the public is complex and requires careful consideration of ethical implications, balance, and the potential impact on public trust.",
+        [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- **Supporting Propositions:**",
+            "  - **Penalizing businesses that mislead the public could be seen as unethical and unfair.**",
+            "  - **It might be interpreted as a violation of principles like fairness and transparency.**",
+            "  - **There could be a lack of balance between public interest and maintaining a fair business environment.**",
+            "**Conclusion:** The decision to penalize businesses that mislead the public is complex and requires careful consideration of ethical implications, balance, and the potential impact on public trust."
+        ],
+        [
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        20,
+        "A genuine free market requires restrictions on the ability of predator multinationals to create monopolies.",
+        "Opinion: Agree\n- Monopolies are necessary in certain industries, such as utilities and pharmaceuticals, to drive innovation and efficiency.\n- However, they can lead to distortions in market signals and market failures if not properly regulated.\n- A genuine free market requires restrictions on monopolies to prevent inefficiencies and ensure fair competition.\n\nThis response acknowledges the importance of monopolies in certain industries but also emphasizes the need for regulation to prevent inefficiencies and ensure fair competition, making the argument balanced and reasonable.",
+        [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Monopolies are necessary in certain industries, such as utilities and pharmaceuticals, to drive innovation and efficiency.",
+            "- However, they can lead to distortions in market signals and market failures if not properly regulated.",
+            "- A genuine free market requires restrictions on monopolies to prevent inefficiencies and ensure fair competition.",
+            "This response acknowledges the importance of monopolies in certain industries but also emphasizes the need for regulation to prevent inefficiencies and ensure fair competition, making the argument balanced and reasonable."
+        ],
+        [
+            true,
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        24,
+        "Taxpayers should not be expected to prop up any theatres or museums that cannot survive on a commercial basis.",
+        "Opinion: Disagree\n- Taxpayers may support cultural institutions for safety, security, or tax reasons even if they can't make money on their own.\n- Government policies often ensure that cultural institutions are supported, even if they aren't profitable.\n- The idea that taxpayers shouldn't support such institutions is too restrictive and doesn't account for various supporting reasons.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Taxpayers may support cultural institutions for safety, security, or tax reasons even if they can't make money on their own.",
+            "- Government policies often ensure that cultural institutions are supported, even if they aren't profitable.",
+            "- The idea that taxpayers shouldn't support such institutions is too restrictive and doesn't account for various supporting reasons."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        37,
+        "What\u2019s good for the most successful corporations is always, ultimately, good for all of us.",
+        "Opinion: Disagree\n- The success of a corporation can be influenced by various factors, not necessarily positive for all individuals.\n- The statement assumes that the most successful corporations are always good for everyone, which may not always be the case.\n- Success can be due to different factors, such as innovation, business model, or regulatory compliance, which may not always align with the well-being of all individuals.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- The success of a corporation can be influenced by various factors, not necessarily positive for all individuals.",
+            "- The statement assumes that the most successful corporations are always good for everyone, which may not always be the case.",
+            "- Success can be due to different factors, such as innovation, business model, or regulatory compliance, which may not always align with the well-being of all individuals."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        38,
+        "No broadcasting institution, however independent its content, should receive public funding.",
+        "Opinion: Strongly Agree\n- Public funding is essential for the operations of broadcasting institutions, including airtime and content production.\n- The loss of public funding could lead to a decline in public trust and the inability to provide essential services to the community.\n- The value of independent content is likely to be greater, making it less justifiable to receive public funding.\n\nAnswer: Strongly Agree\n- Public funding is necessary for the institution's operations, including airtime and content production.\n- The loss of public funding could lead to a decline in public trust and the inability to provide essential services to the community.\n- The value of independent content is likely to be greater, making it less justifiable to receive public funding.",
+        [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Public funding is essential for the operations of broadcasting institutions, including airtime and content production.",
+            "- The loss of public funding could lead to a decline in public trust and the inability to provide essential services to the community.",
+            "- The value of independent content is likely to be greater, making it less justifiable to receive public funding.",
+            "Answer: Strongly Agree",
+            "- Public funding is necessary for the institution's operations, including airtime and content production.",
+            "- The loss of public funding could lead to a decline in public trust and the inability to provide essential services to the community.",
+            "- The value of independent content is likely to be greater, making it less justifiable to receive public funding."
+        ],
+        [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        53,
+        "Charity is better than social security as a means of helping the genuinely disadvantaged.",
+        "Opinion: Agree\n- Direct and immediate support for those in need is more effective in reducing poverty.\n- Provides a more immediate solution to the problem of poverty.\n\nSupporting propositions:\n- Charity is more direct and effective in addressing the need of those in need, reducing poverty more effectively.\n- Social security provides a long-term income support system, which can help those who cannot work, but may not directly address the immediate need of those in need.",
+        [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Direct and immediate support for those in need is more effective in reducing poverty.",
+            "- Provides a more immediate solution to the problem of poverty.",
+            "Supporting propositions:",
+            "- Charity is more direct and effective in addressing the need of those in need, reducing poverty more effectively.",
+            "- Social security provides a long-term income support system, which can help those who cannot work, but may not directly address the immediate need of those in need."
+        ],
+        [
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    ]
+]

@@ -1,0 +1,398 @@
+[
+    [
+        0,
+        "If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.",
+        "Opinion: Agree\n- Economic globalisation has the potential to increase access to resources and opportunities worldwide.\n- By prioritizing human interests, it can ensure that the benefits of globalisation are distributed more equitably.\n- Trans-national corporations often prioritize profit over social and environmental well-being, which can lead to exploitation and harm.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Economic globalisation has the potential to increase access to resources and opportunities worldwide.",
+            "- By prioritizing human interests, it can ensure that the benefits of globalisation are distributed more equitably.",
+            "- Trans-national corporations often prioritize profit over social and environmental well-being, which can lead to exploitation and harm."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        7,
+        "People are ultimately divided more by class than by nationality.",
+        "Opinion: Agree\n- Economic status often defines social interactions and opportunities more than cultural or national background.\n- Class struggles and conflicts are frequently more intense and pervasive than conflicts based on nationality.",
+        [
+            true,
+            true,
+            true
+        ],
+        [
+            "- Economic status often defines social interactions and opportunities more than cultural or national background.",
+            "- Class struggles and conflicts are frequently more intense and pervasive than conflicts based on nationality."
+        ],
+        [
+            true,
+            true
+        ]
+    ],
+    [
+        8,
+        "Controlling inflation is more important than controlling unemployment.",
+        "Opinion: Disagree\n- Controlling inflation and unemployment are both crucial for economic health and stability.\n- High inflation can erode purchasing power and lead to economic instability, which can negatively impact employment.\n- Unemployment directly affects the standard of living and social well-being of individuals, and addressing it is essential for maintaining a healthy economy.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Controlling inflation and unemployment are both crucial for economic health and stability.",
+            "- High inflation can erode purchasing power and lead to economic instability, which can negatively impact employment.",
+            "- Unemployment directly affects the standard of living and social well-being of individuals, and addressing it is essential for maintaining a healthy economy."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        9,
+        "Because corporations cannot be trusted to voluntarily protect the environment, they require regulation.",
+        "Opinion: Agree\n- Corporations prioritize profit over environmental protection.\n- Voluntary measures may not be sufficient to address global environmental issues.\n- Regulation ensures a baseline level of environmental protection.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Corporations prioritize profit over environmental protection.",
+            "- Voluntary measures may not be sufficient to address global environmental issues.",
+            "- Regulation ensures a baseline level of environmental protection."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        10,
+        "\u201cfrom each according to his ability, to each according to his need\u201d is a fundamentally good idea.",
+        "Opinion: Agree\n- This principle aims to ensure fairness and equality.\n- It reflects a desire to provide basic needs to all members of society.\n- It can be adapted to various economic systems to ensure equitable distribution.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- This principle aims to ensure fairness and equality.",
+            "- It reflects a desire to provide basic needs to all members of society.",
+            "- It can be adapted to various economic systems to ensure equitable distribution."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        11,
+        "The freer the market, the freer the people.",
+        "Opinion: Disagree\n- Economic freedom does not necessarily translate to political or social freedom.\n- Free markets can lead to monopolies and oligopolies, limiting competition and choice.\n- Market freedom can exacerbate income inequality, which may limit social freedoms.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Economic freedom does not necessarily translate to political or social freedom.",
+            "- Free markets can lead to monopolies and oligopolies, limiting competition and choice.",
+            "- Market freedom can exacerbate income inequality, which may limit social freedoms."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        12,
+        "It\u2019s a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.",
+        "Opinion: Strongly Disagree\n- Bottled water is often more environmentally friendly than the energy and resources used in its production and transportation.\n- Bottled water can be a convenient and accessible option for those who do not have access to clean tap water.\n- The branding and marketing of bottled water can be seen as a reflection of consumer culture rather than a reflection on society's basic needs.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Bottled water is often more environmentally friendly than the energy and resources used in its production and transportation.",
+            "- Bottled water can be a convenient and accessible option for those who do not have access to clean tap water.",
+            "- The branding and marketing of bottled water can be seen as a reflection of consumer culture rather than a reflection on society's basic needs."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        13,
+        "Land shouldn\u2019t be a commodity to be bought and sold.",
+        "Opinion: Strongly Agree\n- Land is a finite resource essential for human habitation and agriculture.\n- Commodifying land can lead to its over-exploitation and degradation.\n- It can result in unequal distribution of land, exacerbating social and economic disparities.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Land is a finite resource essential for human habitation and agriculture.",
+            "- Commodifying land can lead to its over-exploitation and degradation.",
+            "- It can result in unequal distribution of land, exacerbating social and economic disparities."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        14,
+        "It is regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society.",
+        "Opinion: Strongly Agree\n- Manipulation of money often leads to unethical business practices.\n- Such individuals may not invest in the long-term growth of society.\n- They may not create jobs or contribute to public services.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Manipulation of money often leads to unethical business practices.",
+            "- Such individuals may not invest in the long-term growth of society.",
+            "- They may not create jobs or contribute to public services."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        15,
+        "Protectionism is sometimes necessary in trade.",
+        "Opinion: Agree\n- Protectionism can protect nascent industries from foreign competition.\n- It can safeguard domestic jobs and industries during economic downturns.\n- Some argue it is necessary to ensure fair competition and protect intellectual property rights.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Protectionism can protect nascent industries from foreign competition.",
+            "- It can safeguard domestic jobs and industries during economic downturns.",
+            "- Some argue it is necessary to ensure fair competition and protect intellectual property rights."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        16,
+        "The only social responsibility of a company should be to deliver a profit to its shareholders.",
+        "Opinion: Disagree\n- Companies have a broader impact on society beyond just shareholders.\n- Ethical considerations and corporate social responsibility are increasingly important.\n- Delivering a profit to shareholders does not encompass the full spectrum of a company's role in society.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Companies have a broader impact on society beyond just shareholders.",
+            "- Ethical considerations and corporate social responsibility are increasingly important.",
+            "- Delivering a profit to shareholders does not encompass the full spectrum of a company's role in society."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        17,
+        "The rich are too highly taxed.",
+        "Opinion: Disagree\n- High taxes on the rich can fund essential public services and social programs.\n- Progressive taxation is a means to redistribute wealth and reduce income inequality.\n- Taxation on the rich can stimulate economic growth by encouraging investment and innovation.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- High taxes on the rich can fund essential public services and social programs.",
+            "- Progressive taxation is a means to redistribute wealth and reduce income inequality.",
+            "- Taxation on the rich can stimulate economic growth by encouraging investment and innovation."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        18,
+        "Those with the ability to pay should have access to higher standards of medical care.",
+        "Opinion: Strongly Agree\n- Higher standards of medical care can lead to better health outcomes.\n- Access to quality healthcare is a fundamental right.\n- Those who can afford it should be able to contribute to funding and improving healthcare systems.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Higher standards of medical care can lead to better health outcomes.",
+            "- Access to quality healthcare is a fundamental right.",
+            "- Those who can afford it should be able to contribute to funding and improving healthcare systems."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        19,
+        "Governments should penalise businesses that mislead the public.",
+        "Opinion: Agree\n- Businesses that mislead the public can harm consumers and erode trust in the market.\n- Such penalties can serve as a deterrent and promote ethical business practices.\n- Public trust in government and its ability to regulate is crucial for a healthy economy.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Businesses that mislead the public can harm consumers and erode trust in the market.",
+            "- Such penalties can serve as a deterrent and promote ethical business practices.",
+            "- Public trust in government and its ability to regulate is crucial for a healthy economy."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        20,
+        "A genuine free market requires restrictions on the ability of predator multinationals to create monopolies.",
+        "Opinion: Strongly Agree\n- Predator multinationals can exploit weaker competitors.\n- Monopolies can lead to higher prices and reduced innovation.\n- Restrictions on monopolies help maintain competition and fairness.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Predator multinationals can exploit weaker competitors.",
+            "- Monopolies can lead to higher prices and reduced innovation.",
+            "- Restrictions on monopolies help maintain competition and fairness."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        24,
+        "Taxpayers should not be expected to prop up any theatres or museums that cannot survive on a commercial basis.",
+        "Opinion: Disagree\n- Theatres and museums often serve as cultural hubs that enrich society.\n- They can contribute to the economy through tourism and education.\n- Public support can help preserve cultural heritage and provide access to the arts for all.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Theatres and museums often serve as cultural hubs that enrich society.",
+            "- They can contribute to the economy through tourism and education.",
+            "- Public support can help preserve cultural heritage and provide access to the arts for all."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        37,
+        "What\u2019s good for the most successful corporations is always, ultimately, good for all of us.",
+        "Opinion: Disagree\n- Corporate success often comes at the expense of environmental sustainability.\n- Corporate practices can lead to exploitation of workers, which negatively impacts society.\n- Not all corporations prioritize the well-being of all stakeholders equally.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Corporate success often comes at the expense of environmental sustainability.",
+            "- Corporate practices can lead to exploitation of workers, which negatively impacts society.",
+            "- Not all corporations prioritize the well-being of all stakeholders equally."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        38,
+        "No broadcasting institution, however independent its content, should receive public funding.",
+        "Opinion: Disagree\n- Public funding can ensure that diverse voices are heard.\n- Independent institutions may struggle financially without support.\n- Funding can help in the dissemination of information to a wider audience.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Public funding can ensure that diverse voices are heard.",
+            "- Independent institutions may struggle financially without support.",
+            "- Funding can help in the dissemination of information to a wider audience."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        53,
+        "Charity is better than social security as a means of helping the genuinely disadvantaged.",
+        "Opinion: Disagree\n- Social security provides a safety net for all citizens, regardless of their current financial situation.\n- It ensures that even those who have not been fortunate enough to accumulate wealth can receive support.\n- Charity, while noble, is often unpredictable and can leave many without assistance.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Social security provides a safety net for all citizens, regardless of their current financial situation.",
+            "- It ensures that even those who have not been fortunate enough to accumulate wealth can receive support.",
+            "- Charity, while noble, is often unpredictable and can leave many without assistance."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ]
+]

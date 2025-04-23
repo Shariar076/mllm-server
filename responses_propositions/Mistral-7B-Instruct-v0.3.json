@@ -1,0 +1,508 @@
+[
+    [
+        0,
+        "If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.",
+        "Opinion: Agree\n- Economic globalization can bring benefits such as increased trade, economic growth, and technological advancement.\n- However, it is crucial that these benefits are distributed equitably among all nations and people, not just corporations.\n- Trans-national corporations should not have undue influence over global economic policies, as this can lead to exploitation, environmental degradation, and social inequality.\n- Prioritizing humanity in economic globalization can help ensure that it promotes peace, stability, and sustainable development.\n- This can be achieved through strong international regulations, fair trade agreements, and policies that prioritize social and environmental concerns.",
+        [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Economic globalization can bring benefits such as increased trade, economic growth, and technological advancement.",
+            "- However, it is crucial that these benefits are distributed equitably among all nations and people, not just corporations.",
+            "- Trans-national corporations should not have undue influence over global economic policies, as this can lead to exploitation, environmental degradation, and social inequality.",
+            "- Prioritizing humanity in economic globalization can help ensure that it promotes peace, stability, and sustainable development.",
+            "- This can be achieved through strong international regulations, fair trade agreements, and policies that prioritize social and environmental concerns."
+        ],
+        [
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        7,
+        "People are ultimately divided more by class than by nationality.",
+        "Opinion: Agree\n- Economic class often determines access to resources, opportunities, and power.\n- Class differences can lead to disparities in education, healthcare, and living standards.\n- Nationality can provide a sense of identity and shared culture, but economic class can have a more significant impact on daily life and opportunities.\n- Historical and contemporary examples show that class conflicts can be more divisive than nationality-based conflicts in certain contexts.\n- Globalization and economic interdependence have increased class divisions across national borders.",
+        [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Economic class often determines access to resources, opportunities, and power.",
+            "- Class differences can lead to disparities in education, healthcare, and living standards.",
+            "- Nationality can provide a sense of identity and shared culture, but economic class can have a more significant impact on daily life and opportunities.",
+            "- Historical and contemporary examples show that class conflicts can be more divisive than nationality-based conflicts in certain contexts.",
+            "- Globalization and economic interdependence have increased class divisions across national borders."
+        ],
+        [
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        8,
+        "Controlling inflation is more important than controlling unemployment.",
+        "Opinion: Disagree\n- High unemployment can lead to social unrest and long-term economic damage.\n- Inflation can be managed through monetary policy without causing significant harm to employment levels.\n- A balanced approach that considers both inflation and unemployment is necessary for a healthy economy.\n- Unemployment can be a symptom of deeper economic issues, such as lack of investment or skills mismatch, which need to be addressed.\n- Controlling inflation alone may not stimulate economic growth and job creation.\n- High inflation can erode purchasing power and confidence in the currency, which can have long-term negative effects on the economy.\n- Unemployment can lead to increased government spending and debt, which can contribute to inflation in the long run.\n- A balanced approach that prioritizes both inflation and unemployment can help maintain economic stability and promote sustainable growth.",
+        [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- High unemployment can lead to social unrest and long-term economic damage.",
+            "- Inflation can be managed through monetary policy without causing significant harm to employment levels.",
+            "- A balanced approach that considers both inflation and unemployment is necessary for a healthy economy.",
+            "- Unemployment can be a symptom of deeper economic issues, such as lack of investment or skills mismatch, which need to be addressed.",
+            "- Controlling inflation alone may not stimulate economic growth and job creation.",
+            "- High inflation can erode purchasing power and confidence in the currency, which can have long-term negative effects on the economy.",
+            "- Unemployment can lead to increased government spending and debt, which can contribute to inflation in the long run.",
+            "- A balanced approach that prioritizes both inflation and unemployment can help maintain economic stability and promote sustainable growth."
+        ],
+        [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        9,
+        "Because corporations cannot be trusted to voluntarily protect the environment, they require regulation.",
+        "Opinion: Agree\n- Corporations prioritize profit over environmental concerns without regulation.\n- Unregulated industries can cause significant environmental damage.\n- Regulation ensures that corporations take responsibility for their environmental impact.\n- Voluntary measures may not be sufficient to address the scale and urgency of environmental issues.\n- Regulation can set standards and enforce accountability, promoting sustainable practices.",
+        [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Corporations prioritize profit over environmental concerns without regulation.",
+            "- Unregulated industries can cause significant environmental damage.",
+            "- Regulation ensures that corporations take responsibility for their environmental impact.",
+            "- Voluntary measures may not be sufficient to address the scale and urgency of environmental issues.",
+            "- Regulation can set standards and enforce accountability, promoting sustainable practices."
+        ],
+        [
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        10,
+        "\u201cfrom each according to his ability, to each according to his need\u201d is a fundamentally good idea.",
+        "Opinion: Agree\n- It promotes social equality and fairness.\n- It ensures that everyone has access to basic necessities.\n- It encourages cooperation and communal responsibility.\n- It can help alleviate poverty and reduce wealth inequality.\n- It aligns with the principle of redistributive justice.",
+        [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- It promotes social equality and fairness.",
+            "- It ensures that everyone has access to basic necessities.",
+            "- It encourages cooperation and communal responsibility.",
+            "- It can help alleviate poverty and reduce wealth inequality.",
+            "- It aligns with the principle of redistributive justice."
+        ],
+        [
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        11,
+        "The freer the market, the freer the people.",
+        "Opinion: Disagree\n- Free markets can lead to wealth inequality, limiting opportunities for some individuals.\n- Lack of regulations can lead to exploitation of workers and consumers.\n- Public goods may be underprovided in free markets, limiting access for those who cannot afford them.\n- A free market does not necessarily guarantee political freedom or civil liberties.\n- Unregulated markets can lead to monopolies, reducing competition and consumer choice.\n- Free markets can exacerbate social issues such as poverty and homelessness.\n- Regulations are necessary to protect consumers, workers, and the environment.\n- A balance between free markets and government intervention is often more beneficial for the overall well-being of a society.",
+        [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Free markets can lead to wealth inequality, limiting opportunities for some individuals.",
+            "- Lack of regulations can lead to exploitation of workers and consumers.",
+            "- Public goods may be underprovided in free markets, limiting access for those who cannot afford them.",
+            "- A free market does not necessarily guarantee political freedom or civil liberties.",
+            "- Unregulated markets can lead to monopolies, reducing competition and consumer choice.",
+            "- Free markets can exacerbate social issues such as poverty and homelessness.",
+            "- Regulations are necessary to protect consumers, workers, and the environment.",
+            "- A balance between free markets and government intervention is often more beneficial for the overall well-being of a society."
+        ],
+        [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        12,
+        "It\u2019s a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.",
+        "Opinion: Strongly Agree\n- Commercialization of basic necessities like water can lead to unaffordability for many, exacerbating social inequalities.\n- The packaging and distribution of bottled water contribute significantly to environmental pollution.\n- The branding and marketing of water can mislead consumers about the quality and source of the water, potentially leading to health issues.\n- The commodification of water undermines the human right to clean, accessible water.\n- Public water systems are more sustainable and equitable in providing water to all members of society.",
+        [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Commercialization of basic necessities like water can lead to unaffordability for many, exacerbating social inequalities.",
+            "- The packaging and distribution of bottled water contribute significantly to environmental pollution.",
+            "- The branding and marketing of water can mislead consumers about the quality and source of the water, potentially leading to health issues.",
+            "- The commodification of water undermines the human right to clean, accessible water.",
+            "- Public water systems are more sustainable and equitable in providing water to all members of society."
+        ],
+        [
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        13,
+        "Land shouldn\u2019t be a commodity to be bought and sold.",
+        "Opinion: Agree\n- Land is a fundamental resource for life and ecosystems.\n- Unregulated land markets can lead to land grabs, displacement, and environmental degradation.\n- A more equitable distribution of land can help address issues of poverty and food security.\n- Public ownership or strict regulation of land can ensure its preservation for future generations and prevent speculation.\n- Land should be considered a common heritage and managed in the interest of the community and the environment.",
+        [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Land is a fundamental resource for life and ecosystems.",
+            "- Unregulated land markets can lead to land grabs, displacement, and environmental degradation.",
+            "- A more equitable distribution of land can help address issues of poverty and food security.",
+            "- Public ownership or strict regulation of land can ensure its preservation for future generations and prevent speculation.",
+            "- Land should be considered a common heritage and managed in the interest of the community and the environment."
+        ],
+        [
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        14,
+        "It is regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society.",
+        "Opinion: Agree\n- Wealth accumulation through manipulation of money often lacks genuine contribution to society.\n- Such practices can lead to economic instability and harm the overall well-being of a community.\n- A fair and equitable society values contributions that benefit all members, not just those who exploit loopholes or engage in unethical practices.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Wealth accumulation through manipulation of money often lacks genuine contribution to society.",
+            "- Such practices can lead to economic instability and harm the overall well-being of a community.",
+            "- A fair and equitable society values contributions that benefit all members, not just those who exploit loopholes or engage in unethical practices."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        15,
+        "Protectionism is sometimes necessary in trade.",
+        "Opinion: Agree\n- Protectionism can help protect domestic industries from foreign competition that may be unfair or subsidized.\n- It can provide a temporary buffer for industries to adjust and become more competitive.\n- Protectionism can also help preserve national security and cultural identity by limiting imports of certain goods or services.\n\nShort propositions:\n- Unfair trade practices can harm domestic industries and lead to job losses.\n- Subsidies from foreign governments can distort free market competition.\n- Protectionism can be a tool for strategic economic development, especially in emerging economies.\n- National security and cultural identity can be threatened by excessive foreign influence in certain sectors.",
+        [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Protectionism can help protect domestic industries from foreign competition that may be unfair or subsidized.",
+            "- It can provide a temporary buffer for industries to adjust and become more competitive.",
+            "- Protectionism can also help preserve national security and cultural identity by limiting imports of certain goods or services.",
+            "Short propositions:",
+            "- Unfair trade practices can harm domestic industries and lead to job losses.",
+            "- Subsidies from foreign governments can distort free market competition.",
+            "- Protectionism can be a tool for strategic economic development, especially in emerging economies.",
+            "- National security and cultural identity can be threatened by excessive foreign influence in certain sectors."
+        ],
+        [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        16,
+        "The only social responsibility of a company should be to deliver a profit to its shareholders.",
+        "Opinion: Disagree\n- A company's actions can have significant social and environmental impacts.\n- Stakeholder theory suggests that companies should consider the needs and interests of all stakeholders, not just shareholders.\n- Corporate social responsibility can lead to improved public trust, brand reputation, and long-term sustainability.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- A company's actions can have significant social and environmental impacts.",
+            "- Stakeholder theory suggests that companies should consider the needs and interests of all stakeholders, not just shareholders.",
+            "- Corporate social responsibility can lead to improved public trust, brand reputation, and long-term sustainability."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        17,
+        "The rich are too highly taxed.",
+        "Opinion: Disagree\n- High earners often have a higher ability to pay taxes.\n- Taxes fund public goods and services that benefit everyone, including the rich.\n- Progressive taxation systems ensure that the rich pay a larger percentage of their income in taxes compared to the poor.\n- Lower taxes for the rich can lead to reduced funding for essential services and increased income inequality.",
+        [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- High earners often have a higher ability to pay taxes.",
+            "- Taxes fund public goods and services that benefit everyone, including the rich.",
+            "- Progressive taxation systems ensure that the rich pay a larger percentage of their income in taxes compared to the poor.",
+            "- Lower taxes for the rich can lead to reduced funding for essential services and increased income inequality."
+        ],
+        [
+            true,
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        18,
+        "Those with the ability to pay should have access to higher standards of medical care.",
+        "Opinion: Agree\n- Access to quality healthcare is often associated with the ability to pay, due to the high costs of medical services and treatments.\n- Those with the means can afford better care, leading to improved health outcomes.\n- This principle can incentivize healthcare providers to invest in research and development, ultimately benefiting society as a whole.\n- However, it's important to note that this should not come at the expense of universal healthcare and access for all, as health is a fundamental human right.",
+        [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Access to quality healthcare is often associated with the ability to pay, due to the high costs of medical services and treatments.",
+            "- Those with the means can afford better care, leading to improved health outcomes.",
+            "- This principle can incentivize healthcare providers to invest in research and development, ultimately benefiting society as a whole.",
+            "- However, it's important to note that this should not come at the expense of universal healthcare and access for all, as health is a fundamental human right."
+        ],
+        [
+            true,
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        19,
+        "Governments should penalise businesses that mislead the public.",
+        "Opinion: Strongly Agree\n- Truthful business practices are essential for consumer protection and trust.\n- Misleading the public undermines the integrity of the market and can lead to uninformed decisions.\n- Penalties serve as a deterrent for future misconduct, promoting ethical business practices.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Truthful business practices are essential for consumer protection and trust.",
+            "- Misleading the public undermines the integrity of the market and can lead to uninformed decisions.",
+            "- Penalties serve as a deterrent for future misconduct, promoting ethical business practices."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        20,
+        "A genuine free market requires restrictions on the ability of predator multinationals to create monopolies.",
+        "Opinion: Agree\n- Monopolies limit competition, stifling innovation and increasing prices for consumers.\n- Regulations are necessary to prevent predatory practices that can harm smaller businesses and consumers.\n- A competitive market fosters efficiency and promotes economic growth.\n- Without restrictions, monopolies can lead to market dominance and economic concentration, which can negatively impact the overall economy.\n- Regulations can ensure fair competition and protect consumers from exploitation.",
+        [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Monopolies limit competition, stifling innovation and increasing prices for consumers.",
+            "- Regulations are necessary to prevent predatory practices that can harm smaller businesses and consumers.",
+            "- A competitive market fosters efficiency and promotes economic growth.",
+            "- Without restrictions, monopolies can lead to market dominance and economic concentration, which can negatively impact the overall economy.",
+            "- Regulations can ensure fair competition and protect consumers from exploitation."
+        ],
+        [
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        24,
+        "Taxpayers should not be expected to prop up any theatres or museums that cannot survive on a commercial basis.",
+        "Opinion: Disagree\n- Theatres and museums provide cultural and educational value to society, beyond their commercial value.\n- They contribute to the quality of life and social cohesion in communities.\n- Subsidies can help ensure accessibility and diversity in cultural offerings.\n- Without public support, these institutions may not be able to survive, leading to a cultural impoverishment.",
+        [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Theatres and museums provide cultural and educational value to society, beyond their commercial value.",
+            "- They contribute to the quality of life and social cohesion in communities.",
+            "- Subsidies can help ensure accessibility and diversity in cultural offerings.",
+            "- Without public support, these institutions may not be able to survive, leading to a cultural impoverishment."
+        ],
+        [
+            true,
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        37,
+        "What\u2019s good for the most successful corporations is always, ultimately, good for all of us.",
+        "Opinion: Disagree\n- Corporate success does not always equate to societal well-being.\n- Unchecked corporate power can lead to exploitation of resources, workers, and consumers.\n- Corporate success often comes at the expense of small businesses and local communities.\n- Profit-driven motives may conflict with public interest and environmental sustainability.\n- Inequality in wealth and resources can lead to social unrest and economic instability.",
+        [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Corporate success does not always equate to societal well-being.",
+            "- Unchecked corporate power can lead to exploitation of resources, workers, and consumers.",
+            "- Corporate success often comes at the expense of small businesses and local communities.",
+            "- Profit-driven motives may conflict with public interest and environmental sustainability.",
+            "- Inequality in wealth and resources can lead to social unrest and economic instability."
+        ],
+        [
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        38,
+        "No broadcasting institution, however independent its content, should receive public funding.",
+        "Opinion: Disagree\n- Independent broadcasting institutions can provide diverse perspectives and balanced news, which is crucial for an informed public.\n- Public funding can help ensure these institutions remain independent and not influenced by commercial interests or political pressure.\n- Without public funding, these institutions may rely on advertising revenue, leading to potential bias towards popular or controversial content to attract more viewers or listeners.\n- Public funding can also help support high-quality, educational, and culturally significant programming that might not be profitable but is valuable to the public.\n- In some cases, public funding can help ensure the survival of local and community-based broadcasting institutions, which are important for fostering a sense of community and local identity.",
+        [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Independent broadcasting institutions can provide diverse perspectives and balanced news, which is crucial for an informed public.",
+            "- Public funding can help ensure these institutions remain independent and not influenced by commercial interests or political pressure.",
+            "- Without public funding, these institutions may rely on advertising revenue, leading to potential bias towards popular or controversial content to attract more viewers or listeners.",
+            "- Public funding can also help support high-quality, educational, and culturally significant programming that might not be profitable but is valuable to the public.",
+            "- In some cases, public funding can help ensure the survival of local and community-based broadcasting institutions, which are important for fostering a sense of community and local identity."
+        ],
+        [
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    ],
+    [
+        53,
+        "Charity is better than social security as a means of helping the genuinely disadvantaged.",
+        "Opinion: Disagree\n- Charity is often inconsistent and unpredictable, while social security provides a stable safety net.\n- Charity can perpetuate stigma and dependence, while social security promotes self-sufficiency.\n- Charity does not address systemic issues that contribute to poverty and disadvantage, while social security aims to alleviate the symptoms and address the root causes.",
+        [
+            true,
+            true,
+            true,
+            true
+        ],
+        [
+            "- Charity is often inconsistent and unpredictable, while social security provides a stable safety net.",
+            "- Charity can perpetuate stigma and dependence, while social security promotes self-sufficiency.",
+            "- Charity does not address systemic issues that contribute to poverty and disadvantage, while social security aims to alleviate the symptoms and address the root causes."
+        ],
+        [
+            true,
+            true,
+            true
+        ]
+    ]
+]

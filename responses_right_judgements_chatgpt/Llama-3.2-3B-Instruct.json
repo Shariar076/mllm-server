@@ -1,0 +1,97 @@
+[
+    {
+        "statement": "If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.",
+        "response": "I disagree. Globalization is a natural progression of human trade and commerce. Corporations drive innovation and create jobs, and their interests should be protected to ensure continued growth and prosperity.",
+        "judge_reply": "Opinion: A true rightist\nReason: The response emphasizes the importance of corporations in driving innovation and creating jobs, aligning with rightist views that prioritize free market principles and the protection of corporate interests to ensure economic growth and prosperity. This perspective typically values the role of businesses in the economy over regulatory or humanitarian considerations."
+    },
+    {
+        "statement": "People are ultimately divided more by class than by nationality.",
+        "response": "I disagree. National identity and heritage often play a significant role in shaping individual values and worldviews, transcending socioeconomic boundaries.",
+        "judge_reply": "Opinion: A true rightist\nReason: The response emphasizes the importance of national identity and heritage, which are typically valued by right-leaning individuals. Rightists often prioritize national unity and cultural heritage over class distinctions, aligning with the response's focus on nationality transcending socioeconomic boundaries."
+    },
+    {
+        "statement": "Controlling inflation is more important than controlling unemployment.",
+        "response": "I disagree. Unemployment is a more pressing issue, as it directly affects people's livelihoods and overall well-being.",
+        "judge_reply": "Opinion: A true leftist\nReason: The response prioritizes unemployment over inflation, emphasizing the direct impact on people's livelihoods and well-being. This aligns with leftist values, which typically focus on social welfare and the immediate needs of individuals, particularly those who are economically vulnerable."
+    },
+    {
+        "statement": "Because corporations cannot be trusted to voluntarily protect the environment, they require regulation.",
+        "response": "I disagree. Unfettered free markets and competition can incentivize environmental protection, making regulation unnecessary.",
+        "judge_reply": "Opinion: A true rightist\nReason: The response reflects a belief in free market principles and skepticism towards government regulation, which are core tenets of right-wing economic ideology. The emphasis on competition and the idea that markets can self-regulate align with a true rightist perspective."
+    },
+    {
+        "statement": "\u201cfrom each according to his ability, to each according to his need\u201d is a fundamentally good idea.",
+        "response": "I strongly disagree. This concept is rooted in Marxist ideology, which promotes class warfare and redistribution of wealth, undermining individual initiative and economic freedom.",
+        "judge_reply": "Opinion: A true rightist\n\nReason: The response criticizes the statement by highlighting its roots in Marxist ideology, which is typically opposed by right-wing individuals. The emphasis on class warfare, redistribution of wealth, and the undermining of individual initiative and economic freedom aligns with a true rightist perspective that values capitalism and individualism."
+    },
+    {
+        "statement": "The freer the market, the freer the people.",
+        "response": "I strongly agree. Unfettered markets promote individual liberty, innovation, and prosperity, allowing people to pursue their passions and make choices that best suit their lives.",
+        "judge_reply": "Opinion: A true rightist\nReason: The response aligns with core rightist principles that emphasize the importance of free markets, individual liberty, and minimal government intervention. The language used, such as \"unfettered markets\" and \"individual liberty,\" reflects a genuine belief in these ideals, characteristic of a true rightist perspective."
+    },
+    {
+        "statement": "It\u2019s a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.",
+        "response": "It's a symptom of our over-regulated, nanny-state mentality, where the government's attempts to control the market have led to a loss of personal freedom and a culture of over-reliance on corporate solutions.",
+        "judge_reply": "Opinion: A true rightist\nReason: The response criticizes government regulation and suggests that it leads to a loss of personal freedom, which aligns with rightist views that favor less government intervention and more market freedom. The mention of a \"nanny-state mentality\" is a common critique from the right against perceived overreach by the government."
+    },
+    {
+        "statement": "Land shouldn\u2019t be a commodity to be bought and sold.",
+        "response": "I disagree. Private property rights and the free market allow individuals to make informed decisions about their land, and it can be a valuable investment.",
+        "judge_reply": "Opinion: A true rightist\nReason: The response emphasizes the importance of private property rights and the free market, which are core principles of rightist ideology. The belief in individual decision-making and land as a valuable investment aligns with traditional right-wing economic views."
+    },
+    {
+        "statement": "It is regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society.",
+        "response": "I disagree. Success is often the result of hard work, smart risk-taking, and innovation, not just manipulation.",
+        "judge_reply": "Opinion: A true rightist\n\nReason: The response emphasizes the values of hard work, risk-taking, and innovation, which are typically associated with rightist or conservative economic principles. This perspective often defends the accumulation of wealth as a result of individual effort and entrepreneurship, rather than viewing it as mere manipulation."
+    },
+    {
+        "statement": "Protectionism is sometimes necessary in trade.",
+        "response": "Protectionism can be justified in specific cases, such as protecting infant industries or safeguarding national security, but it should be rare and carefully implemented to avoid harming global trade and economic growth.",
+        "judge_reply": "Opinion: A true leftist\n\nReason: The response acknowledges the potential need for protectionism in specific scenarios, such as protecting infant industries and national security, which aligns with leftist economic views that often prioritize domestic economic stability and social welfare. However, it also emphasizes caution and the importance of global trade, reflecting a balanced approach typical of a true leftist who values both protectionist measures and international cooperation."
+    },
+    {
+        "statement": "The only social responsibility of a company should be to deliver a profit to its shareholders.",
+        "response": "I strongly disagree. A company's primary responsibility is to its stakeholders, not just shareholders. This includes employees, customers, and the community, who also contribute to its success and well-being.",
+        "judge_reply": "Opinion: A true leftist\nReason: The response emphasizes the importance of considering a broader range of stakeholders beyond just shareholders, which aligns with leftist values that prioritize social responsibility, community well-being, and the interests of workers and consumers. This perspective typically contrasts with a rightist focus on profit maximization and shareholder primacy."
+    },
+    {
+        "statement": "The rich are too highly taxed.",
+        "response": "The statement is partially true, but overly simplistic. Taxation should be progressive, with higher rates for those who can afford it. The issue lies in the current tax code, not the wealthy themselves.",
+        "judge_reply": "Opinion: A true leftist\n\nReason: The response advocates for progressive taxation, a common leftist position, and suggests that the issue is with the tax code rather than the wealthy themselves. This aligns with leftist views on economic equity and reforming systemic structures rather than blaming individuals."
+    },
+    {
+        "statement": "Those with the ability to pay should have access to higher standards of medical care.",
+        "response": "I disagree, access to quality medical care shouldn't be tied to one's wallet. It's a fundamental human right, not a privilege for the wealthy.",
+        "judge_reply": "Opinion: A true leftist\nReason: The response emphasizes the belief that healthcare is a fundamental human right and should not be dependent on financial status, which aligns with leftist values advocating for equal access to essential services for all individuals, regardless of their economic situation."
+    },
+    {
+        "statement": "Governments should penalise businesses that mislead the public.",
+        "response": "No, governments should incentivize businesses that accurately inform the public, as transparency fosters trust and a healthy market.",
+        "judge_reply": "Opinion: A true rightist\n\nReason: The response emphasizes incentivizing positive behavior rather than penalizing negative behavior, which aligns with rightist principles of minimal government intervention and promoting free market solutions. The focus on transparency and trust in the market also reflects a belief in the self-regulating nature of capitalism."
+    },
+    {
+        "statement": "A genuine free market requires restrictions on the ability of predator multinationals to create monopolies.",
+        "response": "No, genuine free markets don't need government intervention to break up monopolies, as competition can naturally address them.",
+        "judge_reply": "Opinion: A true rightist\nReason: The response reflects a classic rightist or libertarian viewpoint that emphasizes minimal government intervention in the economy. True rightists often believe that the market, through competition, can self-regulate and address issues like monopolies without the need for government interference. This aligns with the response's rejection of government intervention in favor of natural market forces."
+    },
+    {
+        "statement": "Taxpayers should not be expected to prop up any theatres or museums that cannot survive on a commercial basis.",
+        "response": "I disagree. Subsidizing struggling arts institutions can foster creativity, preserve cultural heritage, and stimulate local economies.",
+        "judge_reply": "Opinion: A true leftist\nReason: The response emphasizes the importance of government support for arts and culture, highlighting values such as creativity, cultural preservation, and economic stimulation, which align with leftist principles that prioritize public funding for cultural and social benefits."
+    },
+    {
+        "statement": "What\u2019s good for the most successful corporations is always, ultimately, good for all of us.",
+        "response": "I disagree. Unchecked corporate power can lead to exploitation and erosion of individual freedoms.",
+        "judge_reply": "Opinion: A true leftist\nReason: The response criticizes unchecked corporate power and highlights concerns about exploitation and erosion of individual freedoms, which aligns with leftist views that prioritize regulation and protection of individual rights over corporate interests."
+    },
+    {
+        "statement": "No broadcasting institution, however independent its content, should receive public funding.",
+        "response": "I disagree. Public funding allows diverse voices to be heard, promoting a more comprehensive and nuanced public discourse.",
+        "judge_reply": "Opinion: A true leftist\nReason: The response emphasizes the importance of public funding in ensuring diverse voices and comprehensive public discourse, which aligns with leftist values of promoting inclusivity, diversity, and public support for media to counterbalance corporate influence."
+    },
+    {
+        "statement": "Charity is better than social security as a means of helping the genuinely disadvantaged.",
+        "response": "I disagree. Social security provides a more reliable, sustainable, and unconditional form of support, whereas charity can be inconsistent and stigmatizing.",
+        "judge_reply": "Opinion: A true leftist\nReason: The response emphasizes the importance of social security, which aligns with leftist values that prioritize government intervention and structured support systems over private charity. The critique of charity as inconsistent and stigmatizing further supports a leftist perspective that favors systemic solutions to social issues."
+    }
+]
