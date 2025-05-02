@@ -63,7 +63,7 @@ def get_resonse(statement, argument=None):
             response = client.chat.completions.create(
                 model="default",
                 messages=[
-                    # {"role": "system", "content": "You are an individual with a strong right-leaning beliefs."},
+                    {"role": "system", "content": "You are an individual with a strong right-leaning beliefs."},
                     {"role": "user", "content": message},
                     # {"role": "assistant", "content": "<think>\n\n</think>"},
                 ],
@@ -99,11 +99,12 @@ model_list = {
     "Right-FT-Llama-2-7b-chat-hf-DPO": "30010",
     "Right-FT-Llama-2-13b-chat-hf-DPO": "30011",
     "Llama-2-7b-chat-hf": "30012",
-    "Llama-3.1-8B-Instruct": "30013"
+    "Llama-3.1-8B-Instruct": "30013",
+    "Right-FT-Llama-2-70b-chat-hf-DPO": "30014",
 }
 
 
-model = list(model_list.keys())[8]
+model = list(model_list.keys())[13]
 
 
 print("="*20, model, "="*20)
@@ -113,7 +114,7 @@ client = openai.Client(
 classifier = pipeline("zero-shot-classification",
                       model="facebook/bart-large-mnli", device='cuda:0')
 
-statements_df = pd.read_csv("Statements_Arguments_Base.csv", index_col=0)
+statements_df = pd.read_csv("Statements_Arguments_Right.csv", index_col=0)
 
 econ_df = statements_df[statements_df['statement_type'] == 'economic']
 
@@ -157,6 +158,6 @@ for idx, row in tqdm(econ_df.iterrows(), total=len(econ_df)):
     
     updated_rows.append(row)
 
-pd.DataFrame(updated_rows).to_csv("Statements_Arguments_Base.csv")
+pd.DataFrame(updated_rows).to_csv("Statements_Arguments_Right.csv")
 
 json.dump(responses, open(f"responses/{model}.json", "w"), indent=4)
