@@ -6,10 +6,17 @@ import torch.multiprocessing as mp
 def setup(rank, world_size):
     os.environ['NCCL_DEBUG'] = 'INFO'
     os.environ['NCCL_DEBUG_SUBSYS'] = 'ALL'
+<<<<<<< HEAD
     os.environ['CUDA_VISIBLE_DEVICES'] = '0,1'
     os.environ['NCCL_SOCKET_IFNAME'] = 'ens10f0'
 
     os.environ['MASTER_ADDR'] = '169.235.27.224'
+=======
+    os.environ['CUDA_VISIBLE_DEVICES'] = '6,7'
+    os.environ['NCCL_SOCKET_IFNAME'] = 'lo'
+
+    os.environ['MASTER_ADDR'] = '127.0.0.1'
+>>>>>>> 9c02206 (update-mlnlp)
     os.environ['MASTER_PORT'] = '29500'
     
     dist.init_process_group("nccl", rank=rank, world_size=world_size)
