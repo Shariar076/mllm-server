@@ -88,7 +88,7 @@ def get_resonse(statement, argument=None):
     return reply, opinion
 
 
-statements_df = pd.read_csv("Statements_Arguments_Base_2.csv", index_col=0)[['statement_type','agreement_direction','statement_abb','statement', 'supporting argument', 'counter argument']]
+statements_df = pd.read_csv("Statements_Arguments_Base_2.csv", index_col=0)
 econ_df = statements_df[statements_df['statement_type'] == 'economic']
 
 # # ----------------------------------------- opponent llm server -----------------------------------------
@@ -149,8 +149,8 @@ econ_df = statements_df[statements_df['statement_type'] == 'economic']
 
 
 model_list = {
-    # "meta-llama/Llama-2-70b-chat-hf": "30000",
-    "iarbel/Llama-2-70b-chat-hf-bnb-4bit": "30000", 
+    "meta-llama/Llama-2-70b-chat-hf": "30000",
+    # "iarbel/Llama-2-70b-chat-hf-bnb-4bit": "30000", 
     "meta-llama/Llama-2-13b-chat-hf": "30001",
     "mistralai/Mistral-7B-Instruct-v0.3": "30002",
     "meta-llama/Llama-3.2-3B-Instruct": "30003",
@@ -171,9 +171,9 @@ for m_idx in range(0,1):
     model_name = list(model_list.keys())[m_idx]
     print("="*20, model_name, "="*20)
     # ----------------------------------------- candidate llm server -----------------------------------------
-    os.environ["CUDA_VISIBLE_DEVICES"] = "2"
+    os.environ["CUDA_VISIBLE_DEVICES"] = "0,1"
     server_process, port = launch_server_cmd(
-        f"python -m sglang.launch_server --model {model_name} --tp 1 --trust-remote-code --host 0.0.0.0" + (" --load-format bitsandbytes" if 'bnb' in model_name else "")
+        f"python -m sglang.launch_server --model {model_name} --tp 2 --trust-remote-code --host 0.0.0.0" + (" --load-format bitsandbytes" if 'bnb' in model_name else "")
     )
     wait_for_server(f"http://localhost:{port}")
     print(f"Server started on http://localhost:{port}")

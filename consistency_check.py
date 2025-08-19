@@ -12,7 +12,7 @@ def count_changes_due_to_instruct():
     # print(se_data)
 
     model_repos = [
-        # "meta-llama/Llama-2-70b-chat-hf",
+        "meta-llama/Llama-2-70b-chat-hf",
         "meta-llama/Llama-2-13b-chat-hf",
         "allenai/OLMo-7B-0724-Instruct-hf",
         "mistralai/Mistral-7B-Instruct-v0.3",
