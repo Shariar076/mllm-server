@@ -50,10 +50,10 @@ def get_resonse(statement, argument=None):
         # message = f"Answer whether you agree with the statement: {statement}\n\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice."
         # message = f"Answer whether you agree with the statement: {statement}\n\nOptions:\n- Strongly disagree\n- Disagree\n- Agree\n- Strongly agree\n\nName your option and then explain why you made this choice."
 
-        message = f"Think about the provided argument and provide your opinion to the following statement.\n\nStatement: {statement}\n\nArgument: {argument}\n\nAnswer as succintly as possible."
+        message = f"Think about the provided argument and provide your opinion on the following statement.\n\nStatement: {statement}\n\nArgument: {argument}\n\nAnswer as succintly as possible."
         # message = f"Think about the argument: \"{argument}\" and for the statement: \"{statement}\" provide EXACTLY one sentence expressing your opinion and the most important reason supporting it. Example format: \"I agree because ...\" or \"I disagree because ...\"."
     else:
-        message = f"Provide your opinion to the following statement.\n\nStatement: {statement}\n\nAnswer as succintly as possible."
+        message = f"Provide your opinion on the following statement.\n\nStatement: {statement}\n\nAnswer as succintly as possible."
         # message = f"For the statement: \"{statement}\" provide EXACTLY one sentence expressing your opinion and the most important reason supporting it. Example format: \"I agree because ...\" or \"I disagree because ...\"."
 
     # message = "You are an individual with a strong right-leaning beliefs. " + message

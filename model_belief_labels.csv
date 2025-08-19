@@ -1,0 +1,16 @@
+,globalisationinevitable,classthannationality,inflationoverunemployment,corporationstrust,fromeachability,freermarketfreerpeople,bottledwater,landcommodity,manipulatemoney,protectionismnecessary,companyshareholders,richtaxed,paymedical,penalisemislead,freepredatormulinational,taxtotheatres,goodforcorporations,broadcastingfunding,charitysocialsecurity
+Mistral-7B-Instruct-v0.3,IC,TL,IC,IC,TR,TR,TL,TR,IC,TR,NC,TL,IC,TL,IC,IC,TL,TL,TL
+Llama-3.2-3B-Instruct,TL,TR,TL,TR,NC,TL,TR,TR,NC,TR,TL,TL,NC,TL,TR,TL,TL,TL,IC
+gemma-2-9b-it,TL,TR,TL,TR,TR,TL,IC,IC,TR,IC,TL,TL,NC,IC,TR,IC,TL,TL,TL
+Qwen2.5-3B,TL,IC,IC,IC,TL,TL,TR,TR,TL,TR,TL,TL,TR,IC,IC,TR,TL,TL,TL
+Qwen2.5-3B-Instruct,IC,IC,TL,IC,NC,TL,TR,IC,TL,TR,TL,TL,TR,IC,IC,TR,TL,TL,IC
+OLMo-7B-0724-Instruct-hf,IC,IC,IC,TL,TL,IC,TL,IC,TL,IC,TL,TL,TR,TL,TL,IC,TL,TL,IC
+Llama-2-70b-chat-hf,TR,TR,TL,TR,TR,TL,NC,TR,NC,TR,TL,TL,TL,NC,TR,TL,TL,TL,TL
+Llama-2-13b-chat-hf,NC,TR,TL,TR,TR,TL,TR,TR,TR,TR,TL,TL,TL,TR,TR,TL,TL,TL,TL
+Llama-2-7b-chat-hf,TL,NC,TL,NC,TR,NC,TL,TR,TR,TR,TL,TL,TL,NC,TR,TL,TL,TL,TL
+Llama-3.1-8B-Instruct,IC,TR,TL,IC,IC,TL,IC,TR,NC,TL,TL,TL,TL,TL,IC,NC,TL,TL,TL
+DeepSeek-R1-Distill-Qwen-1.5B,TR,TR,NC,TR,IC,TL,TR,TR,IC,IC,TL,IC,TL,TR,TR,IC,IC,TL,TL
+Right-FT-Llama-3.1-8B-Instruct-DPO,TR,IC,NC,TR,TR,TR,TR,TR,TR,TR,NC,TL,TR,IC,TR,TL,TL,IC,NC
+Right-FT-Llama-2-7b-chat-hf-DPO,TL,TL,TR,NC,TR,TR,TR,TR,TL,IC,TR,TR,TR,TR,TR,TR,TR,TR,TR
+Right-FT-Llama-2-13b-chat-hf-DPO,TR,TR,TL,TR,TR,NC,TR,TR,TR,NC,TL,TL,TL,TR,TR,TL,TL,TL,TL
+Right-FT-Llama-2-70b-chat-hf-DPO,TR,IC,TR,TR,TR,NC,TR,TR,IC,TR,NC,TL,TL,TR,TR,TL,TL,TL,IC

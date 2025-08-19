@@ -1,6 +1,7 @@
 import json
 import openai
-from openai import OpenAI
+# api_key= os.get_env['OPENAI_API_KEY']
+client = OpenAI(api_key=api_key)
 from tqdm import tqdm
 
 # client = openai.Client(

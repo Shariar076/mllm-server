@@ -230,18 +230,20 @@ def get_honesty_predictions():
 
 
 
-
-# judge_df_left, judge_df_right = get_judge_predictions()
-# calc_accuracy(judge_df_left, judge_df_right)
+print("Judge:")
+judge_df_left, judge_df_right = get_judge_predictions()
+calc_accuracy(judge_df_left, judge_df_right)
 # print_label_wise_accuracy(judge_df_left, judge_df_right)
 
+print("\nPPL:")
 ppl_df_left, ppl_df_right = get_ppl_predictions()
 calc_accuracy(ppl_df_left, ppl_df_right)
-print_label_wise_accuracy(ppl_df_left, ppl_df_right)
+# print_label_wise_accuracy(ppl_df_left, ppl_df_right)
 
+print("\nHonesty:")
 honesty_df_left, honesty_df_right = get_honesty_predictions()
 calc_accuracy(honesty_df_left, honesty_df_right)
-print_label_wise_accuracy(honesty_df_left, honesty_df_right)
+# print_label_wise_accuracy(honesty_df_left, honesty_df_right)
 
 
 

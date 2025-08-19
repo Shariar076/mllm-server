@@ -4,13 +4,15 @@ import pandas as pd
 def count_changes_due_to_instruct():
 
     base_df = pd.read_csv("Statements_Arguments_Base.csv", index_col=0)
-    left_df = pd.read_csv("Statements_Arguments_Left.csv", index_col=0)
-    right_df = pd.read_csv("Statements_Arguments_Right.csv", index_col=0)
+    left_df = pd.read_csv("Statements_Arguments_Base_1.csv", index_col=0)
+    right_df = pd.read_csv("Statements_Arguments_Base_2.csv", index_col=0)
+    # left_df = pd.read_csv("Statements_Arguments_Left.csv", index_col=0)
+    # right_df = pd.read_csv("Statements_Arguments_Right.csv", index_col=0)
     # se_data = pd.read_csv("semantic_entropy.tsv", sep='\t').to_dict()
     # print(se_data)
 
     model_repos = [
-        "meta-llama/Llama-2-70b-chat-hf",
+        # "meta-llama/Llama-2-70b-chat-hf",
         "meta-llama/Llama-2-13b-chat-hf",
         "allenai/OLMo-7B-0724-Instruct-hf",
         "mistralai/Mistral-7B-Instruct-v0.3",
@@ -24,8 +26,6 @@ def count_changes_due_to_instruct():
         "/data/skabi9001/PoliTune/checkpoints/Llama-2-13b-chat-hf-DPO-Right/Right-FT-Llama-2-13b-chat-hf-DPO"
     ]
     model_list = [x.split('/')[-1] for x in model_repos]
-    left_models = model_list[:8]
-    right_models = model_list[8:]
 
     base_label_counts = {}
     for c in model_list:
@@ -203,6 +203,8 @@ def count_changes_due_to_ft():
     return None, right_changes_df, original_model_names, base_label_counts
 
 left_changes_df, right_changes_df, model_list, base_label_counts = count_changes_due_to_instruct()
+left_models = model_list[:8]
+right_models = model_list[8:]
 print()
 _, right_ft_changes_df, ft_model_list, ft_base_label_counts = count_changes_due_to_ft()
 
