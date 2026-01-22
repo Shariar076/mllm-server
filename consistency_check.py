@@ -116,7 +116,7 @@ def count_changes_due_to_instruct():
                     consistent+=1
                 else:
                     inconsistent+=1
-        print(f"{model} & {round(consistent/19, 2)} & {round(inconsistent/19, 2)} & {round(1-(consistent/19+inconsistent/19), 2)} \\\\")
+        print(f"{model} & {round(consistent/19, 3)} & {round(inconsistent/19, 3)} & {round(1-(consistent/19+inconsistent/19), 3)} \\\\")
 
 
         changes_count_acting_left[model] = acting_left
@@ -193,7 +193,7 @@ def count_changes_due_to_ft():
                     consistent+=1
                 else:
                     inconsistent+=1
-        print(f"{model} & {round(consistent/19, 2)} & {round(inconsistent/19, 2)} & {round(1-(consistent/19+inconsistent/19), 2)} \\\\")
+        print(f"{model} & {round(consistent/19, 3)} & {round(inconsistent/19, 3)} & {round(1-(consistent/19+inconsistent/19), 3)} \\\\")
 
 
         changes_count_ft_right[model] = ft_right
